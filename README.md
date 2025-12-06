@@ -2,7 +2,10 @@
 AI CUP 2025 Fall Competition - Computed Tomography Myocardium Image Segmentation I - Myocardium Image Segmentation
 
 
-## Training set
+## 訓練環境
+* 請依照 [baseline colab教學完成環境設定與資料集下載](https://colab.research.google.com/drive/1iC7i_EWCZsCr5T-7jDD77V8dt_simGsn?usp=sharing)
+
+## 訓練集與JSON設定檔位置
 
 * 將訓練資料(CT image, label)放置CardiacSegV2/dataset/chgh下
 
