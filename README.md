@@ -24,4 +24,4 @@ AI CUP 2025 Fall Competition - Computed Tomography Myocardium Image Segmentation
 
 ---
 * [簡報_構想說明](https://github.com/jck776/Computed-Tomography-Myocardium-Image-Segmentation-I/blob/main/%E6%8A%95%E5%BD%B1%E7%89%87_%E5%BF%83%E8%87%9FCT%E5%88%86%E5%89%B2%E7%AD%96%E7%95%A5.pdf)
-* 8個優選模型檔(權重、訓練紀錄)
+* [8個優選模型檔(權重、訓練紀錄)](https://zenodo.org/records/17840566)
