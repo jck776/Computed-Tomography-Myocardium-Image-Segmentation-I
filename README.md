@@ -15,3 +15,6 @@ AI CUP 2025 Fall Competition - Computed Tomography Myocardium Image Segmentation
 * 將資料集設定檔放置在CardiacSegV2/exps/data_dicts/chgh下
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0a0f9adc-0cb9-4eca-b388-31f79cb7239b" />
+
+## 使用Jutyper notebook執行所有工作
+* [Computed-Tomography-Myocardium-Image-Segmentation-I.ipynb](https://github.com/jck776/Computed-Tomography-Myocardium-Image-Segmentation-I/blob/main/Computed-Tomography-Myocardium-Image-Segmentation-I.ipynb)
