@@ -21,4 +21,4 @@ AI CUP 2025 Fall Competition - Computed Tomography Myocardium Image Segmentation
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0a0f9adc-0cb9-4eca-b388-31f79cb7239b" />
 
 ---
-最後，需要提出賽方提供的baseline程式碼已經足夠優秀，使參賽者的起跑點可以對齊，只要修改模型與超參數設定就可以達到Public LB 0.76~0.77的水準。
+* 這是給主辦的報告整理出來的簡報
