@@ -5,7 +5,7 @@ AI CUP 2025 Fall Competition - Computed Tomography Myocardium Image Segmentation
 
 ---
 
-## 使用Jutyper notebook執行訓練與推論
+## 使用Jupyter notebook執行訓練與推論
 * [Computed-Tomography-Myocardium-Image-Segmentation-I.ipynb](https://github.com/jck776/Computed-Tomography-Myocardium-Image-Segmentation-I/blob/main/Computed-Tomography-Myocardium-Image-Segmentation-I.ipynb)
 
 ## 環境建立
