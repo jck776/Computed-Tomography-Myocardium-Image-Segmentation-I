@@ -1,6 +1,7 @@
 # Computed-Tomography-Myocardium-Image-Segmentation-I
 AI CUP 2025 Fall Competition - Computed Tomography Myocardium Image Segmentation I - Myocardium Image Segmentation
 
+<img width="800" height="440" alt="image" src="https://github.com/jck776/Computed-Tomography-Myocardium-Image-Segmentation-I/blob/main/doc/TEAM_7987_構想資訊圖.png" />
 總結而言，本次專案主要在CardiacSegV2程式基礎上，透過優化 swinunetr 模型的訓練超參數並結合多模型的集成學習策略，將模型泛化能力推至競賽的前標水平。
 
 ---
