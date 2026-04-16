@@ -1,3 +1,8 @@
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6681583f-bfa8-471c-9c07-24c883f21d76" />
+
+更新最後名次
+---
+
 # Computed-Tomography-Myocardium-Image-Segmentation-I
 AI CUP 2025 Fall Competition - Computed Tomography Myocardium Image Segmentation I - Myocardium Image Segmentation
 
